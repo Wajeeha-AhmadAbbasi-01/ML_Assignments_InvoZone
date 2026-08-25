@@ -47,7 +47,7 @@ Machine_Learning_Assignment/
 └── README.md
 ```
 
-> Notebook filenames may vary. The `notebooks` folder contains the separate notebooks used for model training and analysis.
+> Notebook filenames may vary. The `notebooks` folder contains the separate notebooks used for model training and analysis.  Some trained models may not also present because of large file size
 
 ---
 

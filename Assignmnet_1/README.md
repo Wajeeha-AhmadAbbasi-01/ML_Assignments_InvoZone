@@ -35,7 +35,7 @@ Machine_Learning_Assignment/
 │   └── analysis / EDA notebook
 │
 ├── processed_data/
-│   └── processed_customer_churn.csv
+│   └── processed_customer_churn.csv.zip
 │
 ├── raw_data/
 │   ├── customer_churn_dataset-training-master.csv
@@ -66,8 +66,14 @@ The `processed_data` folder contains the cleaned/processed data generated during
 The main file is:
 
 ```text
+processed_customer_churn.csv.zip
+```
+First extract the zip file to get the bellow following file
+```text
 processed_customer_churn.csv
 ```
+this file has been used all across the noteooks
+
 
 The analysis workflow removes or handles:
 
